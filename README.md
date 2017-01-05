@@ -1,2 +1,2 @@
-# cs362w17online
-Class repository for core material for E-campus CS362-001 Oregon State Winter 2017
+# cs362-001 w17 e-Campus
+Class repository for core material for e-Campus CS362-001 Winter 2017 Oregon State University
